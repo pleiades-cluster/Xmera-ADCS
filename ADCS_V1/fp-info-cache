@@ -1,4 +1,4 @@
-20403251583387893
+20386608300088421
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57665,27 +57665,6 @@ Yellow 5381 Series LED
 0
 2
 2
-LIS2DS12TR
-LGA-12_2X2X0P86_STM
-
-
-0
-12
-12
-LIS3MDLTR
-LGA-12_2X2X1_STM
-
-
-0
-12
-12
-LIS331DLHTR
-LGA-16_3x3x1mm_STM
-
-
-0
-16
-16
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -61305,13 +61284,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCA9548AD-118
-SO24_SOT137-1_NXP
-
-
-0
-24
-24
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -78952,55 +78924,6 @@ rotary encoder
 0
 5
 4
-STSPIN250
-VFQFPN16_STSPIN_STM
-
-
-0
-17
-17
-SamacSys_Parts
-M50-3900842
-M50-3900842
-Connector
-0
-16
-16
-SamacSys_Parts
-M50-3902042
-M50-3902042
-Connector
-0
-40
-40
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-RASPBERRYPIZEROWV13
-Raspberry Pi Zero W (v1.3)_1
-Integrated Circuit
-0
-44
-44
-SamacSys_Parts
-SOT230P700X175-4N
-SOT−223 (TO−261) CASE 318E−04 ISSUE R
-Transistor
-0
-4
-4
-SamacSys_Parts
-SOT230P700X180-4N
-SOT-223 (TO-261AA)_2021
-MOSFET (N-Channel)
-0
-4
-4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -86096,6 +86019,13 @@ Varistor
 RV_Disc_D21.5mm_W11.4mm_P10mm
 Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
+0
+2
+2
+microchip_osc
+VMK3-9001-32K7680000
+
+
 0
 2
 2
