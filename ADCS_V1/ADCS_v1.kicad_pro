@@ -395,8 +395,8 @@
       "idf": "",
       "netlist": "../../../../../Program Files/KiCad/6.0/",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "ADCS_v1.step",
+      "vrml": "ADCS_v1.wrl"
     },
     "page_layout_descr_file": ""
   },
